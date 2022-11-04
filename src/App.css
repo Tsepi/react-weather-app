@@ -22,7 +22,7 @@ p {
   margin: 0 auto;
   max-width: 650px;
   padding: 0px;
-  /*background-image: url("https://raw.githubusercontent.com/Tsepi/weather-app/main/src/images/mountains.png");*/
+  background-image: url("https://raw.githubusercontent.com/Tsepi/weather-app/main/src/images/mountains.png");
   background-repeat: no-repeat;
   background-size: auto;
 }
